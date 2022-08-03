@@ -1,0 +1,12 @@
+.spoiler
+{
+	background-color: black;
+	color: black;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.spoiler:hover
+{
+	color: white;
+}
